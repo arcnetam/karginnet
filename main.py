@@ -132,7 +132,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
             frame(conn,
                   HOSPITAL + "\n" + FRIEND + "   " + BED + "   " + FRIEND,
-                  "Friend 2 - Քո համար բերել ենք չայ, պիտանի, սեմուշկա ու պիվա", 5)
+                  "Friend 2 - Քո համար բերել ենք չայ, պիվա, սեմուշկա ու պիվա", 5)
 
             frame(conn,
                   HOSPITAL + "\n" + FRIEND + "   " + BED + "   " + FRIEND,
@@ -171,7 +171,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                   "Ոչ անունսա Գոքոր...", 4)
 
             frame(conn,
-                  "\n\n        END OF PART 2\n",
+                  "\n\n      վսյո պրծավ",
                   "", 6)
 
         except Exception as e:
