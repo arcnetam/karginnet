@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  karginnet:
+    build: .
+    container_name: karginnet
+    ports:
+      - "2323:2323"
+    restart: unless-stopped
