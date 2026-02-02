@@ -1,4 +1,5 @@
 # Karginnet – Kargin Sketch 184 💥
+![Karginnet Screenshot](https://raw.githubusercontent.com/arcnetam/karginnet/main/5190739557048062859.jpg)
 
 Welcome to Karginnet, a wild Python-powered ASCII adventure inspired by Kargin Sketch 184!  
 Connect via Telnet  ✨
